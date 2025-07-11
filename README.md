@@ -46,6 +46,6 @@ import os,shutil,subprocess,time,configparser,psutil,msvcrt
 ```ini
 [Ext]
 ClientPath=""
-```
 #指向gamemd.exe所在路径
+```
 
