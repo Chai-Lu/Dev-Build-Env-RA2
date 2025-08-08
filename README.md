@@ -1,5 +1,5 @@
 # Dev-Build-Env-RA2
-自用的较为便捷的Mod配置操作Tools
+自用较为便捷的Mod测试配置操作流
 
 # Symlink Make
 创建硬链接使得在检索文件时更便捷
@@ -38,7 +38,7 @@ Name=
 #Spawn Test
 
 便于更方便的测试
-Using Path.in 作为配置文件
+Using Path.ini 作为配置文件
 Before Use 确认有Syinge.exe
 import os,shutil,subprocess,time,configparser,psutil,msvcrt
 
